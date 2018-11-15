@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/WindowsFormsApplication746/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication746/Form1.vb))**
+* [Program.cs](./CS/WindowsFormsApplication746/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication746/Program.vb))
+<!-- default file list end -->
 # LayoutControl - How to customize captions of EmptySpaceItems in the Customization Form
 
 
